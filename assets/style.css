@@ -162,7 +162,7 @@ body {
 }
 .navbarlubna.active {
     visibility: visible;
-    opacity: 75%;
+    opacity: 90%;
     transition: 0.7s ease-in-out;
     clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
 }
